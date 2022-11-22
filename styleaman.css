@@ -1,0 +1,115 @@
+
+.main-div{
+    
+    position: relative;
+    width: 100%;
+    height: 48.875em;
+    padding:  5em 3.75em 0px  5em;
+    font-size: 1vw;
+    background: rgba(225, 247, 255, 0.5);
+}
+
+.main-div .img-div{
+    position: absolute;
+    right: 0;
+    width: 53.125em ;
+    height: 37.5em;
+    font-size: 1vw;
+    /* background-color: rebeccapurple; */
+}
+
+.main-div .img-div .img-main{
+    width: 100%;
+    height: 100%;
+    font-size: 1vw;
+    background-size: cover;
+
+}
+
+.main-div .text-div{
+    /* padding: 50px; */
+    position: absolute;
+    width:  43.75em;
+    height: 25em;
+    font-size: 1vw;
+    /* background-color: red; */
+}
+
+.main-div .text-div h1{
+    position: absolute;
+width: 20em;
+height:  9em;
+left: 1em;
+top:  1.25em;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 3.125vw;
+line-height:  1em;
+/* or 150% */
+text-transform: capitalize;
+color: #000000;
+}
+
+.main-div .text-div span{
+    color: #164AA5;
+}
+
+.main-div .text-div h4{
+    position: absolute;
+width: 38.623125em;
+height: 5.25em;
+left: 2.10em;
+top:  6.5em;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size:  1.8229166666666667vw;
+line-height: 1.5em;
+text-transform: capitalize;
+color: #000000;
+
+}
+
+.main-div button{
+    position: absolute;
+width:  25em;
+height:  4.375em;
+left: 8em;
+top: 26.25em;
+font-size: 1vw;
+background: linear-gradient(91.33deg, #E29F31 -6.17%, #E27830 67.28%);
+border-radius:  0.625em;
+}
+
+.main-div  a{
+    position: absolute;
+width: 22.6875em;
+height: 1.875em;
+left: 1.25em;
+top: 1.25em;
+text-decoration: none;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 1vw;
+line-height:  1.875em;
+/* identical to box height */
+letter-spacing: 0.1em;
+text-transform: capitalize;
+color: #FFFFFF;
+}
+
+.main-div .vector-image{
+position: absolute;
+width: 93.75em;
+font-size: 1vw;
+left: 1.25em;
+top: 14.5em;
+z-index: -9;
+}
+
+
+
+
+
